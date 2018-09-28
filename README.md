@@ -8,13 +8,13 @@ What we’re looking for during the on-site interviews
 * Logical Reasoning
 * Problem Solving
 * Thoroughness 
-#Overview of the hiring process
-##Phone Screens
-####Technical phone screen
+# Overview of the hiring process
+## Phone Screens
+#### Technical phone screen
 You’ll be writing some code in a collaborative editing environment (https://coderpad.io/) which allows one or two of our team members to evaluate your technical skills.
 
-##Homework
-####Technical project
+## Homework
+#### Technical project
 You will be provided with a technical challenge to solve, the challenge will be specific to the engineering role you're looking to fill.
 
 ##Onsite Interviews
