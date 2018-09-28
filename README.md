@@ -51,7 +51,7 @@ Review Computer Science fundamentals including basic algorithms and data structu
 Solve a few problems on HackerRank, so that you can become familiar with the environment we use for some of our interviews. Review your resume and recall specific stories you may want to share. Determine the projects you have been a part of that best exemplify your skills, accomplishments, abilities, and approach towards business. Have a plan for the mock interview. Know what role you are planning to interview for. Plan the questions you will ask.
 
 # Resources to help you prepare
-Websites
-Topcoder 
-HackerRank 
-Interview Cake 
+## Websites
+* [TopCoder](https://www.topcoder.com//) 
+* [HackerRank](https://www.hackerrank.com/) 
+* [Interview Cake](https://www.interviewcake.com/) 
