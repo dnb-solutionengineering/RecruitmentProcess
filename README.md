@@ -17,6 +17,9 @@ You’ll be writing some code in a collaborative editing environment (https://co
 #### Technical project
 You will be provided with a technical challenge to solve, the challenge will be specific to the engineering role you're looking to fill.
 
+The technical challenges are available in the following location:
+* https://github.com/dnb-solutionengineering/RecruitmentChallenge
+
 ## Onsite Interviews
 #### Whiteboard Problem Solving
 You’ll be solving one or more different technical problems by architecting solutions on a whiteboard.
